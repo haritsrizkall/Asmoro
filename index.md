@@ -50,15 +50,15 @@ Platform yang dapat membantu orang dalam menentukan resep masakan berdasarkan ba
 * Pengguna yang ingin mencoba masakan dengan cara orang lain
 
 #### c. Use Case diagram
-![Image](https://cdn.discordapp.com/attachments/822496830947983380/952852775539183666/asmoro-Page-1.drawio.png)
+![Image](https://cdn.discordapp.com/attachments/994886819621634131/994904649947693186/UCD.png)
 
 #### d. Functional requirements untuk use case yang telah dirancang
-![Image](https://cdn.discordapp.com/attachments/822496830947983380/952853098454474753/messageImage_1647248209416.jpg)
+![Image](https://cdn.discordapp.com/attachments/994886819621634131/994908030397333545/unknown.png)
 
 #### e. Entity relationship diagram
-![Image](https://cdn.discordapp.com/attachments/822496830947983380/952852775761489920/messageImage_1647248176945.jpg)
+![Image](https://cdn.discordapp.com/attachments/994886819621634131/994908258605219890/unknown.png)
 
-#### f. Low-fidelity Wireframe
+#### f. Tampilan Aplikasi
 ![Image](https://cdn.discordapp.com/attachments/822496830947983380/952853098202804244/messageImage_1647248236070.jpg)
 
 #### g. Grantt-Chart pengerjaan proyek dalam kurun satu semester
