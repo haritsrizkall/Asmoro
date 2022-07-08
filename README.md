@@ -1,5 +1,4 @@
-# Asmoro
-Asmoro helps new people get in touch
+# RecipeApp
 
 # Rosalia Abadi
 Ketua Kelompok : Bagas Yudhistira Fauzi - 19/446770/TK/49875 <br>
