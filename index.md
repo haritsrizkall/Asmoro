@@ -59,6 +59,9 @@ Platform yang dapat membantu orang dalam menentukan resep masakan berdasarkan ba
 ![Image](https://cdn.discordapp.com/attachments/994886819621634131/994908258605219890/unknown.png)
 
 #### f. Tampilan Aplikasi
+![Image](https://cdn.discordapp.com/attachments/994886819621634131/994911569467146350/unknown.png)
+![Image](https://cdn.discordapp.com/attachments/994886819621634131/994911626744565852/unknown.png)
+![Image](https://cdn.discordapp.com/attachments/994886819621634131/994911665839669318/unknown.png)
 ![Image](https://cdn.discordapp.com/attachments/994886819621634131/994910170817777754/unknown.png)
 ![Image](https://cdn.discordapp.com/attachments/994886819621634131/994910137078796358/unknown.png)
 ![Image](https://cdn.discordapp.com/attachments/994886819621634131/994910224832020480/unknown.png)
