@@ -59,7 +59,10 @@ Platform yang dapat membantu orang dalam menentukan resep masakan berdasarkan ba
 ![Image](https://cdn.discordapp.com/attachments/994886819621634131/994908258605219890/unknown.png)
 
 #### f. Tampilan Aplikasi
-![Image](https://cdn.discordapp.com/attachments/822496830947983380/952853098202804244/messageImage_1647248236070.jpg)
+![Image](https://cdn.discordapp.com/attachments/994886819621634131/994910170817777754/unknown.png)
+![Image](https://cdn.discordapp.com/attachments/994886819621634131/994910137078796358/unknown.png)
+![Image](https://cdn.discordapp.com/attachments/994886819621634131/994910224832020480/unknown.png)
+![Image](https://cdn.discordapp.com/attachments/994886819621634131/994910531834089634/unknown.png)
 
 #### g. Grantt-Chart pengerjaan proyek dalam kurun satu semester
 ![Image](https://cdn.discordapp.com/attachments/822496830947983380/952853995943264346/messageImage_1647248457562.jpg)
